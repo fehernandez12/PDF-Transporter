@@ -1,0 +1,16 @@
+{
+    "app_data" : {
+        "svc_name" : "PDFCmpMvApp",
+        "svc_display_name" : "PDF Compression and Moving Application",
+        "svc_description" : "Aplicación para el transporte y compresión de archivos PDF."
+    },
+    "directories" : {
+        "path_to_watch" : "C:/Users/Administrador/Desktop/",
+        "path_destination" : "C:/Users/Administrador/Desktop/comprimidos/",
+        "path_backup" : "C:/Users/Administrador/Desktop/backup/"
+    },
+    "config_options" : {
+        "log_path" : "C:/Users/Administrador/Desktop/service_log.txt",
+        "timer_wait" : 60
+    }
+}
